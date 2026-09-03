@@ -1,131 +1,21 @@
-# Hi, I'm Abhishek Kondru 👋
+# 💫 About Me:
+                                          Hi, I'm Abhishek Kondru 👋<br>🚀 Software Development Engineer | 🧠 Java Full Stack | 🎯 Full-Stack Craftsman<br><br>👋 About Me<br>II'm a Computer Science & Engineering student specializing in Cyber Security, with practical experience in backend development, REST API development, and AI-integrated platforms.<br><br>I primarily work with Java, Spring Boot, SQL, REST APIs, and Git/GitHub, while continuously strengthening my foundations in Object-Oriented Programming, Data Structures & Algorithms, DBMS, and problem solving.<br><br>I've worked on backend systems involving authentication, modular architecture, database management, and AI-powered applications, including an e-commerce system and an AI-powered mock interview platform.<br><br>🎯 My current goal is to start my career as a Software Engineer and contribute to building scalable, reliable, and impactful software.
 
-### 🎓 Computer Science Student | ☕ Java Full Stack | AI Automation | Frontend Development | 🤖 AI Enthusiast
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishek-kondru) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Kondru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kondruabhishek77@gmail.com) 
 
-### 👋 About Me
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abbhiiii06 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abbhiiii06 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abbhiiii06 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I'm a **Computer Science & Engineering student specializing in Cyber Security**, with practical experience in **Java Full Stack, REST API development, and AI-integrated platforms**.
-
-I primarily work with **Java, Spring Boot, SQL, REST APIs, and Git/GitHub**, while continuously strengthening my foundations in **Object-Oriented Programming, Data Structures & Algorithms, DBMS, and problem solving**.
-
-I've worked on backend systems involving **authentication, modular architecture, database management, and AI-powered applications**, including an e-commerce system and an AI-powered mock interview platform.
-
-🎯 My current goal is to start my career as a **Software Engineer** and contribute to building scalable, reliable, and impactful software.
-
----
-
-### 🛠️ Skills & Tools
-
-**Languages**
-
-`Java` `SQL` `HTML` `CSS`
-
-**Core Concepts**
-
-`OOP` `DBMS` `Data Structures & Algorithms` `Problem Solving`
-
-**Backend Development**
-
-`Spring Boot` `RESTful APIs` `JWT Authentication`
-
-**Tools**
-
-`Git` `GitHub` `MySQL`
-
-**AI Technologies**
-
-`Azure AI Foundry` `LangChain` `RAG`
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=abbhiiii06 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💼 What I've Built
-
-**🛒 E-Commerce System**
-
-A backend-focused e-commerce application built using Spring Boot and MySQL.
-
-- Developed **4+ REST API modules** for products, users, carts, and orders
-- Implemented **JWT-based authentication and authorization**
-- Applied layered architecture using **Controller, Service, Repository, and Entity**
-- Worked collaboratively with a **5-member team** using GitHub
-- Managed **30+ commits** and resolved merge conflicts between feature branches
-- Focused on creating clean, maintainable, and scalable backend modules
-
-**Tech Stack:**  
-`Java` `Spring Boot` `REST APIs` `MySQL` `JWT`
-
----
-
-**🤖 RAXIED — AI-Powered Mock Interview Platform**
-
-Worked as a **Backend Intern at Agensphere** on RAXIED, an AI-powered platform designed to simulate real interview scenarios.
-
-- Built scalable backend APIs using REST APIs
-- Integrated **Azure AI Foundry, LangChain, and RAG**
-- Developed workflows for **resume and job-description uploads**
-- Supported personalized interview simulations
-- Contributed to AI-driven interview scoring and automated feedback
-- Worked on identifying candidate strengths and areas for improvement
-
-**Technologies:**  
-`REST API` `Azure AI Foundry` `LangChain` `RAG`
-
----
-
-### 💻 My Development Journey
-
-```text
-Java & OOP                  ████████████████████
-Data Structures & Algorithms █████████████████░░░
-SQL & DBMS                  █████████████████░░░
-Git & GitHub                ████████████████░░░░
-Generative AI               ███████████████░░░░░
-```
-
-I'm continuously learning by **building projects, practicing problem solving, and exploring backend and AI technologies**.
-
----
-
-### 🎓 Education
-
-**Bachelor of Computer Science and Engineering — Cyber Security**  
-Vignan's Institute of Information and Technology, Visakhapatnam, Andhra Pradesh  
-**2024 – Present | 79%**
-
-**Diploma in Computer Science and Engineering**  
-Nuzvid Polytechnic, Nuzvid, Andhra Pradesh  
-**2021 – 2024 | 85%**
-
----
-
-### 📜 Certifications
-
-- **Career Essentials in Generative AI** — Microsoft & LinkedIn | 2026
-- **Oracle Certified Foundations Associate** — Oracle Corporation | 2026
-- **Generative AI Bootcamp: LLMs & Prompting** — Wow Institute | 2026
-
----
-
-### 🎯 What I'm Working Toward
-
-I'm focused on becoming a strong **Software Engineer with a backend development foundation**.
-
-My current learning path is centered around:
-
-**Java → OOP → DSA → SQL/DBMS → Spring Boot → REST APIs → Backend Engineering → AI Integration**
-
-I want to build software that is **scalable, maintainable, secure, and useful in real-world applications**.
-
----
-
-### 📫 Let's Connect
-
-- 💼 **LinkedIn:** [Connect with me]www.linkedin.com/in/abhishek-kondru
-- 💻 **GitHub:** [Explore my projects]https://github.com/abbhiiii06
-- 📧 **Email:** kondruabhishek77@gmail.com
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
