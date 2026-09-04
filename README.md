@@ -30,7 +30,7 @@ I'm a Computer Science Engineer Student  at **Vignans Institute of Information a
 - Worked with APIs, databases, and backend logic to support the platform’s core features.
 - Gained practical experience in backend development, problem-solving, and AI-integrated application development.
 
-**🎓 Procct on Java E-commerce BackendSystem** *
+**🎓 Projectt on Java E-commerce BackendSystem** *
 - Developed an E-Commerce Backend System to manage products, users, orders, and transactions efficiently.
 - Implemented backend functionality with a focus on scalability, performance, and secure data management.
 - Designed structured APIs and database operations to support smooth and reliable application workflows.
