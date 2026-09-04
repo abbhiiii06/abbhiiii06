@@ -1,21 +1,54 @@
-# 💫 About Me:
-                                          Hi, I'm Abhishek Kondru 👋<br>🚀 Software Development Engineer | 🧠 Java Full Stack | 🎯 Full-Stack Craftsman<br><br>👋 About Me<br>II'm a Computer Science & Engineering student specializing in Cyber Security, with practical experience in backend development, REST API development, and AI-integrated platforms.<br><br>I primarily work with Java, Spring Boot, SQL, REST APIs, and Git/GitHub, while continuously strengthening my foundations in Object-Oriented Programming, Data Structures & Algorithms, DBMS, and problem solving.<br><br>I've worked on backend systems involving authentication, modular architecture, database management, and AI-powered applications, including an e-commerce system and an AI-powered mock interview platform.<br><br>🎯 My current goal is to start my career as a Software Engineer and contribute to building scalable, reliable, and impactful software.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhishek-kondru) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Kondru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kondruabhishek77@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abbhiiii06 &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abbhiiii06 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abbhiiii06 &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi, I'm Kondru Abhishek 👋</h1>
+<p align="center">
+  🚀 Software Development Engineer | 🧠 Front-End Developement | 🎯 Java Full-Stack Developement
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abbhiiii06 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👋 About Me
+I'm a Computer Science Engineer Student  at **Vignans Institute of Information and Techonology**, where I Have Strong Foundation  **Java,Data Structures and Alogrithms,SQL,HTML,CSS,SpringBoot**.and also I have Strong Hands on Exprience on My Skills and How to apply my skills in real world applications.
+
+
+---
+
+### 🛠️ Skills & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 💼 Exprience 
+
+**Internship At Agencesphere as Backend Enginner**
+- my internship as a Backend Development Intern, I worked on a RAG-based AI Mock Interview Platform.
+- Developed backend functionalities for managing users, interviews, questions, and interview sessions.
+- Worked with APIs, databases, and backend logic to support the platform’s core features.
+- Gained practical experience in backend development, problem-solving, and AI-integrated application development.
+
+**🎓 Procct on Java E-commerce BackendSystem** *
+- Developed an E-Commerce Backend System to manage products, users, orders, and transactions efficiently.
+- Implemented backend functionality with a focus on scalability, performance, and secure data management.
+- Designed structured APIs and database operations to support smooth and reliable application workflows.
+- Applied Java, SQL, and problem-solving skills to build a robust and maintainable backend system.
+
+---
+
+### 🙋 A Bit More About Me
+I am a motivated and passionate student with a strong interest in **software development and problem solving**. I have a good foundation in **Java, Data Structures and Algorithms, HTML, CSS, and SQL**. I enjoy learning new technologies and applying my knowledge to practical projects. I am particularly interested in **backend development** and continuously work on improving my technical and programming skills.
+
+
+---
+
+### 📫 Contact Me
+Let's connect and build together!
+- 🧑‍💼 [LinkedIn](www.linkedin.com/in/abhishek-kondru)
+- 💻 [Email](kondruabhishek77@gmail.com)
+
+---
+
+> "Teach one to learn twice. Build to grow. Share to lead."
