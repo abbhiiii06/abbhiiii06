@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kondru Abhishek 👋</h1>
 <p align="center">
-  🚀 Software Development Engineer | 🧠 Front-End Developement | 🎯 Java Full-Stack Developement
+  🚀 Computer Science and Engineering | 🧠 Front-End Developement | 🎯 Java Full-Stack Developement
 </p>
 
 ---
